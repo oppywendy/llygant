@@ -17,8 +17,8 @@ const Hero = () => {
             src={pic1}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -26,8 +26,8 @@ const Hero = () => {
             src={pic2}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -35,8 +35,8 @@ const Hero = () => {
             src={pic3}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -44,8 +44,8 @@ const Hero = () => {
             src={pic1}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -53,8 +53,8 @@ const Hero = () => {
             src={pic2}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -62,8 +62,8 @@ const Hero = () => {
             src={pic3}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT HOODIE</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -71,8 +71,8 @@ const Hero = () => {
             src={pic4}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -80,8 +80,8 @@ const Hero = () => {
             src={pic5}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -89,8 +89,8 @@ const Hero = () => {
             src={pic6}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -98,8 +98,8 @@ const Hero = () => {
             src={pic7}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -107,8 +107,8 @@ const Hero = () => {
             src={pic8}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
           <img
@@ -116,8 +116,8 @@ const Hero = () => {
             src={pic9}
             alt=""
           />
-          <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
-          <p className="pt-2 text-lg">$500.00 USD</p>
+          <h1 className="pt-3 md:text-lg text-sm">LLYGANT T-SHIRT (WHITE)</h1>
+          <p className="pt-2 md:text-lg text-sm">$500.00 USD</p>
         </div>
       </div>
       <div className="w-full justify-center items-center flex mt-10">
