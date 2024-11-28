@@ -12,62 +12,110 @@ const Hero = () => {
     <div className="w-full min-h-full justify-items-center items-center grid pb-10">
       <div className="w-[96%] h-[100%] justify-center items-center grid md:grid-cols-3 grid-cols-2 md:gap-5 gap-2 mt-10">
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic1} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic1}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic2} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic2}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic3} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic3}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic1} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic1}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic2} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic2}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic3} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic3}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT HOODIE</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic4} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic4}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic5} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic5}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic6} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic6}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic7} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic7}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic8} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic8}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
         <div className="md:w-[350px] w-[180px] cursor-pointer">
-          <img className="bg-[#E4E4E4] rounded-2xl" src={pic9} alt="" />
+          <img
+            className="bg-[#E4E4E4] rounded-2xl transition-all duration-300 ease-in-out transform hover:scale-105"
+            src={pic9}
+            alt=""
+          />
           <h1 className="pt-3 text-lg">LLYGANT T-SHIRT (WHITE)</h1>
           <p className="pt-2 text-lg">$500.00 USD</p>
         </div>
